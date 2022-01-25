@@ -28,7 +28,4 @@ string[] myStringArray = {"1234", "1567", "-2", "computer science"};
 int counter = ArrayElementsLengthCounter(myStringArray);
 string[] newArray = NewStringArray(myStringArray, counter);
 
-// for (int i = 0; i < newArray.Length; i++)
-// {
-//     Console.Write(newArray[i] + " ");
-// }  
+
